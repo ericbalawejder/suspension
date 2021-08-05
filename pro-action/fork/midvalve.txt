@@ -1,0 +1,36 @@
+12/20/19
+
+Compression
+Top
+8mm ID
+
+8 x .11	spacing shim
+(8 x .11 removed from R side)
+21 x .11
+21 x .11
+21 x .11
+20 x .15
+9 x .10
+20 x .10
+18 x .10
+16 x .10
+14 x .10
+Base plate 1.55mm
+
+Float = 1.5mm
+
+Rebound
+16 x .20 spacing shim
+16 x .20 spacing shim
+11 x .20
+12 x .15
+13 x .15
+14 x .15
+16 x .10
+18 x .10
+11 x .11
+13 x .11
+21 x .11
+21 x .11
+21 x .11
+21 x .11
