@@ -1,23 +1,24 @@
-12/20/19
+Version 2 - 3/7/20
 
 Compression
 Top
 8mm ID
 
-8 x .11	spacing shim
-(8 x .11 removed from R side)
+8 x .10 spacing shim
+8 x .10 spacing shim
 21 x .11
 21 x .11
-21 x .11
-20 x .15
+21 x .10
+21 x .10
+21 x .10
 9 x .10
 20 x .10
 18 x .10
 16 x .10
 14 x .10
-Base plate 1.55mm
+Base plate 1.55 mm
 
-Float = 1.5mm
+Float = 2.0 mm
 
 Rebound
 16 x .20 spacing shim
