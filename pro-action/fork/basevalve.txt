@@ -1,4 +1,4 @@
-Version - 5
+Version - 6
 
 30 x .10
 24 x .10
@@ -12,6 +12,8 @@ Version - 5
 22 x .10
 20 x .10
 20 x .10
+18 x .10
+18 x .10
 
 Bleed stack
 14 x .25
@@ -23,5 +25,5 @@ Bleed stack
 
 Oil height: 300cc
 
-Increasing the crossover diameter made the entire high speed stack stiffer and increased harshness.
-I reversed the change and went back to a 22 x .10 crossover.
+Adding two 18 x .10 to the bottom lessened the harshness feel on small bumps without altering the
+slow speed damping.
