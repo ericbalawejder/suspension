@@ -1,10 +1,11 @@
-Version - 7
-6/19/20
+Version - 8
+7/6/20
 
 Compression
 Top
 12mm ID
 
+44 x .20
 44 x .20
 44 x .20
 44 x .20
@@ -18,7 +19,7 @@ Top
 38 x .25
 36 x .25
 34 x .25
-32 x .25
+32 x .3
 30 x .3
 28 x .3
 26 x .3
@@ -37,9 +38,11 @@ Top 12mm ID
 38 x .3
 40 x .3
 28 x .1
-40 x .3
+40 x .25
+40 x .25
 40 x .25
 
 Enzo reduced volume bladder
 
-Too soft.
+Great stack. Good action everywhere. Shock bottoms out when seat bouncing large jumps.
+Rebound feels great at 18 clicks out.
