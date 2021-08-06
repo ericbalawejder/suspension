@@ -1,5 +1,5 @@
-Version - 5
-7/18/21
+Version - 6
+7/23/21
 
 32 x .15
 32 x .15
@@ -10,7 +10,8 @@ Version - 5
 32 x .15
 32 x .15
 32 x .15
-22 x .1
+32 x .15
+24 x .1
 32 x .15
 30 x .15
 28 x .15
@@ -28,6 +29,4 @@ Bleed stack
 12 x .15
 12 x .15
 
-Oil height 300cc
-
-Great overall improvement. Still blows through the stroke on small slow speed obstacles and jump faces.
+Oil height 325cc
