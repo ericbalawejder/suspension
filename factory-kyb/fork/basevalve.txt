@@ -1,24 +1,41 @@
-2018 OEM Fork Base Valving
+Version - 1
+5/26/21
 
-Base Valve Comp:
-Nut
-Cap 16.8 x 3mm
-Spring
-30.5 x .4 - 8ID
-Spacer 8 x 3.8 mm - 6ID
-
-32 x .1 - 13
-30 x .1 - 2
-28 x .1 - 2
-26 x .1 - 2
-24 x .1 - 2
-22 x .1 - 2
-20 x .1 - 2
-18 x .1 - 2
-16 x .1 - 2
-15 x .3 - 2
+32 x .15
+32 x .15
+32 x .15
+32 x .15
+32 x .15
+32 x .15
+32 x .15
+22 x .1
+32 x .1
+32 x .1
+30 x .1
+30 x .1
+28 x .1
+28 x .1
+26 x .1
+26 x .1
+24 x .1
+24 x .1
+22 x .1
+22 x .1
+20 x .1
+20 x .1
+18 x .1
+18 x .1
+16 x .1
+16 x .1
+14 x .25
 
 Bleed stack
-Spacer 20 x 1.6 mm
-14 x .3 - 2
-12 x .3
+14 x .25
+14 x .3
+12 x .15
+12 x .15
+
+Oil height 300cc
+
+This is a great setting. First ride at Budds Creek. Blows through the stroke on big front wheel hits.
+Moved clickers from 18 to 12 out. Possible update 16 x .15 and 18 x .15 on the high speed stack.
