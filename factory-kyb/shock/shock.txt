@@ -1,5 +1,5 @@
-Version - 3
-5/15/21
+Version - 4
+5/26/21
 
 Compression
 Top
@@ -15,7 +15,7 @@ Top
 44 x .25
 44 x .25
 44 x .25
-30 x .1
+32 x .1
 44 x .3
 42 x .3
 40 x .3
@@ -26,6 +26,7 @@ Top
 30 x .3
 28 x .3
 26 x .3
+24 x .3
 
 Rebound
 Top 12mm ID
@@ -37,10 +38,8 @@ Top 12mm ID
 36 x .3
 38 x .3
 40 x .3
-28 x .1
+30 x .1
 40 x .25
 40 x .25
 40 x .25
 40 x .25
-
-Removed base shim 24 x .3 from compression and rebound stack.
