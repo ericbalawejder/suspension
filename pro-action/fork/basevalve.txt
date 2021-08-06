@@ -1,7 +1,10 @@
-Version - 14
-6/10/20
+Version - 15
+7/6/20
 
-30 x .15
+30 x .10
+30 x .10
+30 x .10
+30 x .10
 22 x .10
 30 x .10
 28 x .11
@@ -28,8 +31,4 @@ Bleed stack
 
 Oil height: 325cc
 
-This is a great setting. Handles chop well, holds up under heavy braking, sets into corners
-well and has good slow speed for big jump landings. When the track gets rough, there are occurrences
-of bottoming on large holes and while jumping into braking bumps.
-
-Raised oil level to 325 cc and did not notice any difference. Feels mushy.
+Great feel. Soft under braking on high speed tracks. Some headshake on high speed braking.
