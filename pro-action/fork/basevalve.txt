@@ -1,4 +1,4 @@
-Version - 10
+Version - 11
 
 30 x .10
 24 x .10
@@ -12,8 +12,6 @@ Version - 10
 20 x .10
 18 x .10
 18 x .10
-16 x .10
-16 x .10
 
 Bleed stack
 14 x .25
@@ -23,7 +21,6 @@ Bleed stack
 22 x .11
 22 x .11
 
-Oil height: 300cc
+Oil height: 325cc
 
-No noticeable improvement on small bumps and chatter. Slight improvement on braking bumps.
-Softer feel on jump faces and landings.
+Harsh. Ended up going back to 300 cc of oil. Placing 16’s at the base is a noticeable improvement on chop.
