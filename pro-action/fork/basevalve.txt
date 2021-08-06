@@ -1,12 +1,10 @@
-Version - 13
-6/3/20
+Version - 14
+6/10/20
 
 30 x .15
 22 x .10
 30 x .10
 28 x .11
-28 x .11
-26 x .11
 26 x .11
 24 x .10
 24 x .10
@@ -28,6 +26,10 @@ Bleed stack
 22 x .11
 22 x .11
 
-Oil height: 300cc
+Oil height: 325cc
 
-Great action. Increased ride height. Stays high in stroke. Front end too high in corner entry.
+This is a great setting. Handles chop well, holds up under heavy braking, sets into corners
+well and has good slow speed for big jump landings. When the track gets rough, there are occurrences
+of bottoming on large holes and while jumping into braking bumps.
+
+Raised oil level to 325 cc and did not notice any difference. Feels mushy.
