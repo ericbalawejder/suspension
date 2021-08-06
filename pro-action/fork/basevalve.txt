@@ -1,11 +1,8 @@
-Version - 18
-8/20/20
+Version - 19
+9/18/20
 
-30 x .10
-30 x .10
-30 x .10
-30 x .10
-30 x .10
+30 x .15
+30 x .15
 22 x .10
 30 x .10
 28 x .11
@@ -33,4 +30,5 @@ Bleed stack
 
 Oil height: 325cc
 
-Looking for a stiffer feeling under high speed braking.
+Increased ride height. Affects cornering. Feels great on high speed braking but
+too stiff on acceleration bumps.
