@@ -1,5 +1,5 @@
-Version - 6
-7/23/21
+Version - 7
+7/30/21
 
 32 x .15
 32 x .15
@@ -11,7 +11,7 @@ Version - 6
 32 x .15
 32 x .15
 32 x .15
-24 x .1
+
 32 x .15
 30 x .15
 28 x .15
@@ -21,7 +21,6 @@ Version - 6
 20 x .15
 18 x .15
 16 x .15
-14 x .25
 
 Bleed stack
 14 x .25
@@ -29,4 +28,7 @@ Bleed stack
 12 x .15
 12 x .15
 
-Oil height 325cc
+Oil height 300cc
+
+Removing the crossover and the pivot made a big difference. It is stiff but rideable.
+Go back to using 14 x .25 pivot shim to isolate the two changes.
