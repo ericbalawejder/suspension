@@ -1,20 +1,17 @@
-Version - 4
-5/26/21
+Version - 5
+6/10/21
 
 Compression
 Top
 12 mm ID
 
-44 x .25
-44 x .25
-44 x .25
-44 x .25
-44 x .25
-44 x .25
-44 x .25
-44 x .25
-44 x .25
-44 x .25
+44 x .3
+44 x .3
+44 x .3
+44 x .3
+44 x .3
+44 x .3
+44 x .3
 32 x .1
 44 x .3
 42 x .3
@@ -30,6 +27,7 @@ Top
 
 Rebound
 Top 12mm ID
+24 x .3
 26 x .3
 28 x .3
 30 x .3
@@ -39,7 +37,8 @@ Top 12mm ID
 38 x .3
 40 x .3
 30 x .1
-40 x .25
-40 x .25
-40 x .25
-40 x .25
+40 x .3
+40 x .3
+40 x .3
+
+Used 0.3 to decrease overall stack height.
