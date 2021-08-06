@@ -1,0 +1,24 @@
+2018 OEM Fork Base Valving
+
+Base Valve Comp:
+Nut
+Cap 16.8 x 3mm
+Spring
+30.5 x .4 - 8ID
+Spacer 8 x 3.8 mm - 6ID
+
+32 x .1 - 13
+30 x .1 - 2
+28 x .1 - 2
+26 x .1 - 2
+24 x .1 - 2
+22 x .1 - 2
+20 x .1 - 2
+18 x .1 - 2
+16 x .1 - 2
+15 x .3 - 2
+
+Bleed stack
+Spacer 20 x 1.6 mm
+14 x .3 - 2
+12 x .3
