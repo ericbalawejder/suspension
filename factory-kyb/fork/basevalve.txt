@@ -1,6 +1,8 @@
-Version - 2
-6/7/21
+Version - 3
+6/30/21
 
+32 x .15
+32 x .15
 32 x .15
 32 x .15
 32 x .15
@@ -37,3 +39,5 @@ Bleed stack
 12 x .15
 
 Oil height 300cc
+
+Feels worse. Feels spongy. Blows through stroke.
