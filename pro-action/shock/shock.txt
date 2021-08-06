@@ -1,5 +1,5 @@
-Version - 5
-5/26/20
+Version - 6
+6/3/20
 
 Compression
 Top
@@ -10,15 +10,16 @@ Top
 44 x .20
 44 x .20
 44 x .20
-28 x .1
+44 x .20
+30 x .1
 44 x .25
 42 x .25
 40 x .25
 38 x .25
 36 x .25
 34 x .25
-32 x .25
-30 x .25
+32 x .3
+30 x .3
 28 x .3
 26 x .3
 24 x .3
@@ -41,4 +42,5 @@ Top 12mm ID
 
 Enzo reduced volume bladder
 
-Felt soft and mushy.
+This is a great setting. It solves the bottoming issue when landing seated on small jumps.
+Compression clickers are at 16 out, rebound 22 out. Could improve slow speed acceleration chop.
