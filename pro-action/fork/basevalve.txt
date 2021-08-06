@@ -1,5 +1,6 @@
-Version - 7
+Version - 8
 
+30 x .10
 30 x .10
 24 x .10
 28 x .11
@@ -26,6 +27,4 @@ Bleed stack
 
 Oil height: 300cc
 
-Adding the two 16 x .10 to the bottom of the stack and removing 28 x .10 was a big change.
-It is great for high speed chop but started to affect the slow speed damping range. I ran the
-clickers in 8 out before I decided to make another change.
+Works good.
