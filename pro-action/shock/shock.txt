@@ -1,5 +1,5 @@
-Version - 3
-3/10/20
+Version - 4
+5/16/20
 
 Compression
 Top
@@ -10,11 +10,11 @@ Top
 28 x .1
 44 x .20
 42 x .20
-40 x .20
-38 x .20
+40 x .25
+38 x .25
 36 x .25
 34 x .25
-32 x .3
+32 x .25
 30 x .3
 28 x .3
 26 x .3
@@ -22,6 +22,7 @@ Top
 
 Rebound
 Top 12mm ID
+22 x .3
 24 x .3
 26 x .3
 28 x .3
@@ -30,9 +31,11 @@ Top 12mm ID
 34 x .3
 36 x .3
 38 x .3
-38 x .3
+40 x .3
 28 x .1
-38 x .3
+40 x .3
 40 x .25
 
-Excellent action. Soft slow speed. Rebound felt slow at the standard 16 clicks out.
+Enzo reduced volume bladder
+
+Great action. Soft on jump landings.
