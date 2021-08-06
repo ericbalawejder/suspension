@@ -1,6 +1,7 @@
-Version - 15
-7/6/20
+Version - 16
+7/24/20
 
+30 x .10
 30 x .10
 30 x .10
 30 x .10
@@ -31,4 +32,4 @@ Bleed stack
 
 Oil height: 325cc
 
-Great feel. Soft under braking on high speed tracks. Some headshake on high speed braking.
+Good feeling. Increased ride height for cornering. Made turning difficult. Went back to 4) - 30x.10’s
