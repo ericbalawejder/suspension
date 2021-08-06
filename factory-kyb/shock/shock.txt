@@ -1,0 +1,44 @@
+Version - 1
+4/25/21
+
+Compression
+Top
+12 mm ID
+
+44 x .25
+44 x .25
+44 x .25
+44 x .25
+44 x .25
+44 x .25
+44 x .25
+30 x .1
+44 x .3
+42 x .3
+40 x .3
+38 x .3
+36 x .3
+34 x .3
+32 x .3
+30 x .3
+28 x .3
+26 x .3
+24 x .3
+
+Rebound
+Top 12mm ID
+24 x .3
+26 x .3
+28 x .3
+30 x .3
+32 x .3
+34 x .3
+36 x .3
+38 x .3
+40 x .3
+28 x .1
+40 x .25
+40 x .25
+40 x .25
+
+This is the best guess initial setting. I don't know the initial setting from Yamaha.
