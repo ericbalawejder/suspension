@@ -1,6 +1,5 @@
-Version - 9
+Version - 10
 
-30 x .10
 30 x .10
 24 x .10
 28 x .11
@@ -26,4 +25,5 @@ Bleed stack
 
 Oil height: 300cc
 
-Harsh on braking bumps.
+No noticeable improvement on small bumps and chatter. Slight improvement on braking bumps.
+Softer feel on jump faces and landings.
