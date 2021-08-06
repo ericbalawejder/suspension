@@ -1,8 +1,11 @@
-Version - 11
+Version - 12
+3/7/20
 
 30 x .10
-24 x .10
+22 x .10
 28 x .11
+28 x .11
+26 x .11
 26 x .11
 24 x .10
 24 x .10
@@ -12,6 +15,9 @@ Version - 11
 20 x .10
 18 x .10
 18 x .10
+16 x .10
+16 x .10
+14 x .10
 
 Bleed stack
 14 x .25
@@ -21,6 +27,6 @@ Bleed stack
 22 x .11
 22 x .11
 
-Oil height: 325cc
+Oil height: 300cc
 
-Harsh. Ended up going back to 300 cc of oil. Placing 16’s at the base is a noticeable improvement on chop.
+Changed with midvalve version 2.
