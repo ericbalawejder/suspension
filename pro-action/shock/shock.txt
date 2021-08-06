@@ -1,24 +1,21 @@
-Version - 8
-7/6/20
+Version - 9
+7/18/20
 
 Compression
 Top
 12mm ID
 
-44 x .20
-44 x .20
-44 x .20
-44 x .20
-44 x .20
-44 x .20
-44 x .20
+44 x .25
+44 x .25
+44 x .25
+44 x .25
 30 x .1
 44 x .25
 42 x .25
 40 x .25
 38 x .25
 36 x .25
-34 x .25
+34 x .3
 32 x .3
 30 x .3
 28 x .3
@@ -44,5 +41,5 @@ Top 12mm ID
 
 Enzo reduced volume bladder
 
-Great stack. Good action everywhere. Shock bottoms out when seat bouncing large jumps.
-Rebound feels great at 18 clicks out.
+Changed low speed stack to 0.25’s to decrease overall stack height.
+Great feeling on fast tracks. Sag 108-110mm C - 14, R - 20
