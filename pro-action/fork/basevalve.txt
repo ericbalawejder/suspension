@@ -1,7 +1,6 @@
-Version - 16
-7/24/20
+Version - 17
+8/13/20
 
-30 x .10
 30 x .10
 30 x .10
 30 x .10
@@ -9,6 +8,7 @@ Version - 16
 22 x .10
 30 x .10
 28 x .11
+26 x .11
 26 x .11
 24 x .10
 24 x .10
@@ -32,4 +32,4 @@ Bleed stack
 
 Oil height: 325cc
 
-Good feeling. Increased ride height for cornering. Made turning difficult. Went back to 4) - 30x.10’s
+Looking for a stiffer feeling under high speed braking.
