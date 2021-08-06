@@ -1,6 +1,7 @@
-Version - 1
-5/26/21
+Version - 2
+6/7/21
 
+32 x .15
 32 x .15
 32 x .15
 32 x .15
@@ -36,6 +37,3 @@ Bleed stack
 12 x .15
 
 Oil height 300cc
-
-This is a great setting. First ride at Budds Creek. Blows through the stroke on big front wheel hits.
-Moved clickers from 18 to 12 out. Possible update 16 x .15 and 18 x .15 on the high speed stack.

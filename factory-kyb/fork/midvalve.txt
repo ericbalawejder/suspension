@@ -1,4 +1,4 @@
-2018 OEM Fork Midvalve setting
+Version - 2
 
 Comp:
 21 x .1
@@ -7,6 +7,7 @@ Comp:
 21 x .1
 18 x .1
 16 x .1
+14 x .1
 12 x .1
 10 x .2
 10 x .2
@@ -34,6 +35,7 @@ Rebound:
 18 x .1
 11 x .1
 13 x .1
+21 x .1
 21 x .1
 21 x .1
 21 x .1
