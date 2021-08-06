@@ -1,21 +1,17 @@
-Version - 2
-3/7/20
+Version - 3
+3/10/20
 
 Compression
 Top
 12mm ID
 
-44 x .15
-42 x .15
-40 x .15
-44 x .2
-42 x .2
-40 x .2
-38 x .2
-36 x .2
-42 x .15
-40 x .2
-38 x .2
+44 x .25
+44 x .25
+28 x .1
+44 x .20
+42 x .20
+40 x .20
+38 x .20
 36 x .25
 34 x .25
 32 x .3
@@ -39,4 +35,4 @@ Top 12mm ID
 38 x .3
 40 x .25
 
-Stiff af. Held up great on jump faces and cornered well. Too much bounce on corner entry.
+Excellent action. Soft slow speed. Rebound felt slow at the standard 16 clicks out.
