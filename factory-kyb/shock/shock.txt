@@ -1,10 +1,12 @@
-Version - 1
-4/25/21
+Version - 2
+5/3/21
 
 Compression
 Top
 12 mm ID
 
+44 x .25
+44 x .25
 44 x .25
 44 x .25
 44 x .25
@@ -40,5 +42,10 @@ Top 12mm ID
 40 x .25
 40 x .25
 40 x .25
+40 x .25
 
-This is the best guess initial setting. I don't know the initial setting from Yamaha.
+Looking for more slow speed dampening when landing from jumps.
+
+Shim stack is limited by total overall height.
+Ground compression base plate from 4.5mm to 4.0mm and rebound base plate from
+3.5mm to 3.0mm on surface grinder.
