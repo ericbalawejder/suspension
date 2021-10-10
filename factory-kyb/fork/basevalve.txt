@@ -1,5 +1,5 @@
-Version - 8
-8/3/21
+Version - 9
+10/10/21
 
 32 x .15 - 9
 
@@ -20,6 +20,8 @@ Bleed stack
 12 x .15
 12 x .15
 
-Oil height 300cc
+Oil height 350cc
 
-This is a great setting. The fork still blows through the stroke on steep jump faces.
+This is a great setting. Slow speed can be stiffer but high speed can be softer.
+Raise oil height to 350cc while testing the slow speed clickers at 10-20 out.
+Test change to the rebound stack before the next change on the base valve.
