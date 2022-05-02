@@ -1,5 +1,5 @@
-Version - 12
-4/18/22
+Version - 13
+4/30/22
 
 32 x .15 - 6
 
@@ -7,11 +7,10 @@ Version - 12
 28 x .10 - 2
 26 x .10 - 2
 24 x .10 - 2
-22 x .15 - 1
-20 x .15 - 1
-18 x .15 - 1
-16 x .15 - 1
-14 x .25
+22 x .10 - 2
+20 x .10 - 2
+18 x .10 - 2
+16 x .10 - 2
 
 Bleed stack
 14 x .25
@@ -21,4 +20,4 @@ Bleed stack
 
 Oil height 350cc
 
-Looking for more progressive feel. Softer initially and stiffer on large hits.
+This setting is harsh on small chop. Not a step in the right direction.
