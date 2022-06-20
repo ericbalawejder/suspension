@@ -1,5 +1,5 @@
-Version - 7
-5/19/22
+Version - 8
+6/19/22
 
 Compression
 Top
@@ -12,7 +12,7 @@ Top
 44 x .3
 44 x .3
 44 x .3
-34 x .15
+36 x .15
 44 x .3
 42 x .3
 40 x .3
@@ -23,7 +23,6 @@ Top
 30 x .3
 28 x .3
 26 x .3
-24 x .3
 
 Rebound
 Top 12mm ID
