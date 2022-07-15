@@ -1,14 +1,14 @@
-Version - 16
-6/19/22
+Version - 17
+7/14/22
 
-32 x .15 - 6
+32 x .15 - 7
 
 30 x .10 - 2
 28 x .10 - 2
 26 x .10 - 2
-24 x .15
-22 x .15
-20 x .15
+24 x .10 - 2
+22 x .10 - 2
+20 x .10 - 2
 18 x .15
 16 x .15
 14 x .25
@@ -20,5 +20,3 @@ Bleed stack
 12 x .15
 
 Oil height 350cc
-
-Great setting. Feels a little springy at times. Adjusting rebound as needed.
