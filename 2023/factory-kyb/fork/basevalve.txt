@@ -1,18 +1,17 @@
 OEM Setting
-5/28/23
+5/29/23
 
-32 x .1 - 14
+32 x .15 - 4
 30 x .15
 28 x .15
 26 x .15
 24 x .15
-22 x .15
-20 x .15
+22 x .15 - 2
+20 x .15 - 2
 18 x .2
 16 x .2
 14 x .2
-13 x .2
-12 x .3 - 2
+
 
 Bleed stack
 12 x .3
@@ -23,3 +22,5 @@ Bleed stack
 22 x .1 - 3
 
 Oil height 350cc
+
+Initial pickup is great. Fork was blowing through on big jumps and braking bumps.

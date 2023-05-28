@@ -1,24 +1,22 @@
 OEM Setting
-5/28/23
+5/29/23
 
 Compression
 Top
 12 mm ID
 
 44 x .2 - 12
-42 x .2 - 3
-40 x .2 - 2
-38 x .25
-36 x .25
-34 x .25
+42 x .3
+40 x .3
+38 x .3
+36 x .3
+34 x .3
 32 x .3
 30 x .3
 29 x .3
 28 x .3
 27 x .3
-26 x .3
-25 x .3
-24 x .3
+
 
 Rebound
 Top 12mm ID
@@ -33,3 +31,7 @@ Top 12mm ID
 40 x .3
 28 x .1
 40 x .25 - 3
+
+@175 psi
+
+Initial pickup is great. Shock blows through on seat bounces and big jump landings.
