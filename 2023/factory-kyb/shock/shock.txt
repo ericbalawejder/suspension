@@ -1,5 +1,5 @@
-OEM Setting
-5/29/23
+V2
+6/7/23
 
 Compression
 Top
@@ -16,6 +16,7 @@ Top
 29 x .3
 28 x .3
 27 x .3
+26 x .3
 
 
 Rebound
@@ -34,4 +35,4 @@ Top 12mm ID
 
 @175 psi
 
-Initial pickup is great. Shock blows through on seat bounces and big jump landings.
+Looking for more initial pickup.
