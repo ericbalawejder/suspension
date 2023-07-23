@@ -1,9 +1,9 @@
-V3
-6/19/23
+V4
+7/14/23
 
 32 x .15 - 4
-30 x .15
-28 x .15
+30 x .2
+28 x .2
 26 x .2
 24 x .2
 22 x .2
@@ -12,7 +12,6 @@ V3
 16 x .2
 14 x .2
 13 x .2
-12 x .3
 
 
 Bleed stack
@@ -21,4 +20,7 @@ Bleed stack
 
 Oil height 270cc
 
-Looking for more squat entering corners while maintaining high speed dampening.
+The standard oil height is 270cc. Increasing the oil height in 25cc increments up to 350cc affects ride height too much.
+I want to maintain the current ride height for corning and front wheel grip but prevent the fork from blowing through
+the stroke. The bike suffers from minor instability on fast downhills but I don't want to lose the initial turn in and
+front wheel traction.
