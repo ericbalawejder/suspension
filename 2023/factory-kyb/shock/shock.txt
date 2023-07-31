@@ -1,5 +1,5 @@
-V3
-7/20/23
+V4
+7/29/23
 
 Compression
 Top
@@ -14,7 +14,6 @@ Top
 32 x .3
 30 x .3
 29 x .3
-28 x .3
 
 
 Rebound
@@ -33,4 +32,6 @@ Top 12mm ID
 
 @175 psi
 
-Solid feel with sag @104/105mm. Shock blows through the stroke on large hits and while sitting on transitions.
+This resulted in a significant increase in ride height. Reduced squat when accelerating and while sitting on landings.
+
+Sag 106mm, C 16, R 20
