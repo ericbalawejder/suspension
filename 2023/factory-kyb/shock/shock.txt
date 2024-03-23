@@ -1,11 +1,11 @@
-V4
-7/29/23
+V5
+3/23/24
 
 Compression
 Top
 12 mm ID
 
-44 x .2 - 12
+44 x .2 - 8
 42 x .3
 40 x .3
 38 x .3
@@ -18,7 +18,7 @@ Top
 
 Rebound
 Top 12mm ID
-25 x .25
+25 x .3
 26 x .3
 28 x .3
 30 x .3
@@ -32,6 +32,6 @@ Top 12mm ID
 
 @175 psi
 
-This resulted in a significant increase in ride height. Reduced squat when accelerating and while sitting on landings.
+Looking for more initial pickup on small chop.
 
-Sag 106mm, C 16, R 20
+Sag 106mm, C 14, R 18
