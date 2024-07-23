@@ -1,5 +1,5 @@
-V9
-6/3/24
+V10
+7/23/24
 
 32 x .15 - 4
 30 x .15
@@ -13,19 +13,15 @@ V9
 15 x .2
 14 x .2
 13 x .2
+12 x .3
 
 
 Bleed stack
 12 x .3
 12 x .3
 
-Oil height 270cc
-
-Looking for more initial pickup on small chop while braking and to help alleviate some head shake.
+Oil height 300cc
 
 Less than 0.6 mm clearance on the bleed stack feels harsh.
 
-The standard oil height is 270cc. Increasing the oil height in 25cc increments up to 350cc affects ride height too much.
-I want to maintain the current ride height for corning and front wheel grip but prevent the fork from blowing through
-the stroke. The bike suffers from minor instability on fast downhills but I don't want to lose the initial turn in and
-front wheel traction.
+Raise oil height to 300cc. Looking for more high speed stability from increased ride height of the fork.
