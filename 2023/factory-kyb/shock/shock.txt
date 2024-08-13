@@ -1,19 +1,20 @@
-V7
-5/16/24
+V8
+8/12/24
 
 Compression
 Top
 12 mm ID
 
-44 x .2 - 10
+44 x .2 - 14
 42 x .25
 40 x .25
-38 x .25
+38 x .3
 36 x .3
 34 x .3
 32 x .3
 30 x .3
 29 x .3
+28 x .3
 
 
 Rebound
@@ -32,6 +33,6 @@ Top 12mm ID
 
 @175 psi
 
-Looking for more initial pickup on small chop.
+Looking for more initial pickup on small chop but resist blow through.
 
-Sag 106mm, C 14, R 18
+Sag 106mm, C 10, R 16
