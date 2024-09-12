@@ -1,5 +1,5 @@
-V8
-8/12/24
+V9
+9/12/24
 
 Compression
 Top
@@ -15,6 +15,7 @@ Top
 30 x .3
 29 x .3
 28 x .3
+27 x .3
 
 
 Rebound
