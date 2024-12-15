@@ -1,7 +1,7 @@
-V11
-10/9/24
+V12
+12/14/24
 
-32 x .15 - 5
+32 x .15 - 6
 30 x .15
 28 x .15
 26 x .15
@@ -11,7 +11,6 @@ V11
 18 x .2
 16 x .2
 14 x .2
-13 x .2
 12 x .3
 
 
@@ -19,8 +18,8 @@ Bleed stack
 12 x .3
 12 x .3
 
-Oil height 300cc
+Oil height 350cc
 
 Less than 0.6 mm clearance on the bleed stack feels harsh.
 
-Raise oil height to 300cc. Looking for more high speed stability from increased ride height of the fork.
+Raise oil height to 350cc. Looking for more high speed stability from increased ride height of the fork.
