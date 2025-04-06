@@ -1,11 +1,11 @@
-V10
-9/19/24
+V11
+4/4/25
 
 Compression
 Top
 12 mm ID
 
-44 x .2 - 14
+44 x .2 - 12
 42 x .25
 40 x .25
 38 x .25
@@ -13,9 +13,8 @@ Top
 34 x .3
 32 x .3
 30 x .3
-29 x .3
 28 x .3
-27 x .3
+26 x .3
 
 
 Rebound
@@ -36,4 +35,4 @@ Top 12mm ID
 
 Looking for more initial pickup on small chop but resist blow through.
 
-Sag 106mm, C 10, R 16
+Sag 106mm, C 10, R 18
