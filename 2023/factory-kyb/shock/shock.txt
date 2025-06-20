@@ -1,5 +1,5 @@
-V11
-4/4/25
+V12
+5/6/25
 
 Compression
 Top
@@ -13,7 +13,9 @@ Top
 34 x .3
 32 x .3
 30 x .3
+29 x .3
 28 x .3
+27 x .3
 26 x .3
 
 
@@ -33,6 +35,7 @@ Top 12mm ID
 
 @175 psi
 
-Looking for more initial pickup on small chop but resist blow through.
+Looking to resist blow through. This setting has the 2025 updated linkage knuckle installed.
+The bike maintains stability with less sag.
 
-Sag 106mm, C 10, R 18
+Sag 100mm, C 10, R 18
