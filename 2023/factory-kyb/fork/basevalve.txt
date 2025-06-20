@@ -1,11 +1,11 @@
-V12
-12/14/24
+V13
+6/19/25
 
-32 x .15 - 6
+32 x .15 - 5
 30 x .15
 28 x .15
-26 x .15
-24 x .15
+26 x .2
+24 x .2
 22 x .2
 20 x .2
 18 x .2
@@ -22,4 +22,4 @@ Oil height 350cc
 
 Less than 0.6 mm clearance on the bleed stack feels harsh.
 
-Raise oil height to 350cc. Looking for more high speed stability from increased ride height of the fork.
+Looking for more high speed dampening resistance.
