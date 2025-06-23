@@ -1,12 +1,12 @@
-V13
-6/19/25
+V14
+6/23/25
 
-32 x .15 - 5
+32 x .15 - 7
 30 x .15
 28 x .15
-26 x .2
-24 x .2
-22 x .2
+26 x .15
+24 x .15
+22 x .15
 20 x .2
 18 x .2
 16 x .2
@@ -22,4 +22,4 @@ Oil height 350cc
 
 Less than 0.6 mm clearance on the bleed stack feels harsh.
 
-Looking for more high speed dampening resistance.
+The previous setting was too stiff. The high speed stack is most effective with the top four shims @0.15mm.
