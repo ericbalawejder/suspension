@@ -1,5 +1,5 @@
-V12
-5/6/25
+V13
+9/25/25
 
 Compression
 Top
@@ -10,13 +10,10 @@ Top
 40 x .25
 38 x .25
 36 x .25
-34 x .3
+34 x .25
 32 x .3
 30 x .3
-29 x .3
 28 x .3
-27 x .3
-26 x .3
 
 
 Rebound
@@ -35,7 +32,7 @@ Top 12mm ID
 
 @175 psi
 
-Looking to resist blow through. This setting has the 2025 updated linkage knuckle installed.
-The bike maintains stability with less sag.
+Looking to resist blow through. Great hold up but doesn't like small chop.
+This setting has the 2025 updated linkage knuckle installed.
 
 Sag 100mm, C 10, R 18
