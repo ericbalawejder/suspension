@@ -1,11 +1,11 @@
-V13
-9/25/25
+V14
+10/13/25
 
 Compression
 Top
 12 mm ID
 
-44 x .2 - 12
+44 x .25 - 10
 42 x .25
 40 x .25
 38 x .25
@@ -13,7 +13,12 @@ Top
 34 x .25
 32 x .3
 30 x .3
+29 x .3
 28 x .3
+27 x .3
+26 x .3
+25 x .3
+24 x .3
 
 
 Rebound
@@ -32,7 +37,7 @@ Top 12mm ID
 
 @175 psi
 
-Looking to resist blow through. Great hold up but doesn't like small chop.
+This is a great setting for small chop. Ride height is slightly lower and hold up is good.
 This setting has the 2025 updated linkage knuckle installed.
 
-Sag 100mm, C 10, R 18
+Sag 100mm, C 8, R 18
