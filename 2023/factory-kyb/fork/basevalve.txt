@@ -1,5 +1,5 @@
-V15
-10/31/25
+V16
+4/10/26
 
 32 x .15 - 6
 30 x .15
@@ -11,7 +11,9 @@ V15
 18 x .2
 16 x .2
 14 x .2
-12 x .3
+13 x .2
+12 x .2
+11 x .2
 
 
 Bleed stack
@@ -21,3 +23,5 @@ Bleed stack
 Oil height 350cc
 
 Less than 0.6 mm clearance on the bleed stack feels harsh.
+
+Looking to ease mid-stroke harshness.
