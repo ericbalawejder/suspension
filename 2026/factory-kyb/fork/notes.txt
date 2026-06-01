@@ -1,0 +1,36 @@
+Slow speed stack: (0.2/0.15)^3 == 2.370
+32 x .2 - 6
+
+Essential for bump absorption
+30 x .15
+28 x .15
+26 x .15
+24 x .15
+
+If blow through exists, double these or use 0.2 shims
+22 x .15
+20 x .15
+
+If blow through exists, use 0.2 shims in 2 mm increments
+18 x .15
+17 x .15
+
+16 x .15
+15 x .15
+
+14 x .15 - stock base shim
+13 x .15
+
+12 x .15
+11 x .2
+
+
+Bleed stack
+14 x .3
+14 x .3
+
+Oil height 350cc
+
+Spring: 51 kg/mm, 49.48 cm in length
+
+I do not like crossover shims.
