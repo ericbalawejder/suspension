@@ -1,0 +1,40 @@
+OEM Settings
+
+Compression
+Top 12 mm ID
+
+44 x .25 - 8
+32 x .1
+26 x .1
+44 x .2
+42 x .25
+40 x .3
+38 x .3
+36 x .3
+34 x .3
+32 x .3
+30 x .3
+29 x .3
+28 x .3
+27 x .3
+26 x .3
+24 x.25
+
+
+Rebound
+Top 12 mm ID
+
+40 x .2 - 6
+24 x .15
+40 x .3
+38 x .3
+36 x .3
+34 x. 3
+32 x .3
+30 x .3
+28 x .3
+26 x .3
+25 x .25
+24 x .25
+
+Bladder was at 130 psi.
