@@ -1,14 +1,12 @@
-OEM Settings
+V1
+6/5/2026
 
 Compression
 Top 12 mm ID
 
-44 x .25 - 8
-32 x .1
-26 x .1
-44 x .2
+44 x .3 - 6
 42 x .25
-40 x .3
+40 x .25
 38 x .3
 36 x .3
 34 x .3
@@ -18,13 +16,14 @@ Top 12 mm ID
 28 x .3
 27 x .3
 26 x .3
-24 x.25
+25 x .3
+24 x .3
 
 
 Rebound
 Top 12 mm ID
 
-40 x .2 - 6
+40 x .3 - 2
 24 x .15
 40 x .3
 38 x .3
@@ -34,7 +33,11 @@ Top 12 mm ID
 30 x .3
 28 x .3
 26 x .3
-25 x .25
-24 x .25
+25 x .3
+24 x .3
 
-Bladder was at 130 psi.
+@175 psi
+
+Using 0.3 mm shims on both slow speed stacks due to limited shaft height.
+
+Great holdup and slow speed dampening. High-speed dampening too stiff in small chop.

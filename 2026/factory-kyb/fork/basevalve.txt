@@ -1,20 +1,17 @@
-V1
-5/20/26
+V2
+6/2/26
 
-32 x .2 - 6
+32 x .2 - 8
 30 x .15
 28 x .15
 26 x .15
 24 x .15
 22 x .15
 20 x .15
-18 x .15
-17 x .15
-16 x .15
-15 x .15
-14 x .15
-13 x .15
-12 x .15
+18 x .2
+16 x .2
+14 x .2
+12 x .2
 11 x .2
 
 
@@ -24,5 +21,7 @@ Bleed stack
 
 Oil height 350cc
 
-This is a great setting for small square-edge braking bumps while maintaining great cornering ability. Suffers from
-blow through on high speed hits and braking obstacles.
+Using 0.2 mm shims due to limited shaft height.
+
+Great hold up while maintaining cornering ability. High-speed dampening is too stiff on small chop. Introduces
+occasional instability.
