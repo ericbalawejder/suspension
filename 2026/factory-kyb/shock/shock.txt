@@ -1,14 +1,14 @@
-V1
-6/5/2026
+V2
+6/8/2026
 
 Compression
 Top 12 mm ID
 
-44 x .3 - 6
+44 x .25 - 10
 42 x .25
 40 x .25
-38 x .3
-36 x .3
+38 x .25
+36 x .25
 34 x .3
 32 x .3
 30 x .3
@@ -36,8 +36,14 @@ Top 12 mm ID
 25 x .3
 24 x .3
 
+LSC 10, HSC 1 turn, R 16
+
 @175 psi
 
-Using 0.3 mm shims on both slow speed stacks due to limited shaft height.
+Using 0.3 mm shims on rebound slow speed stack due to limited shaft height.
 
-Great holdup and slow speed dampening. High-speed dampening too stiff in small chop.
+This is a great setting. This is the latest setting in the 23 shock but with the updated KYB *piston design.
+This shock uses 56 N spring vs the 58 N spring on the 23 shock.
+Both settings were developed with the updated 2025 linkage knuckle.
+
+*piston design was said to place less load on the shims while maintaining a similar volumetric flow rate.
