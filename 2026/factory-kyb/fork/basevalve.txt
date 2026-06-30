@@ -1,7 +1,7 @@
-V3
-6/8/26
+V4
+6/23/26
 
-32 x .2 - 6
+32 x .2 - 8
 30 x .15
 28 x .15
 26 x .15
@@ -25,7 +25,7 @@ Oil height 350cc
 
 Using 0.2 mm shims due to limited shaft height.
 
-This is a great setting. The 11 to 12 mm base is a significant change.
+This is a great setting but too soft for larger slow speed obstacles.
 
 The high-speed stack feels superior with 1 mm increment shims vs the 0.2 mm in 2 mm OD increments. The 11 mm base
 offers the best high-speed pickup but suffers from blow through.
