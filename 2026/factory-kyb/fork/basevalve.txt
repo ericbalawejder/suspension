@@ -1,7 +1,7 @@
-V7
-7/31/26
+V8
+9/10/26
 
-32 x .2 - 7
+32 x .15 - 15
 30 x .15
 28 x .15
 26 x .15
@@ -13,7 +13,7 @@ V7
 16 x .15
 15 x .15
 14 x .15
-13 x .15
+13 x .15 - 2
 
 
 Bleed stack
@@ -22,16 +22,10 @@ Bleed stack
 
 Oil height 350cc
 
-Using 0.2 mm shims due to limited shaft height.
-
-Improved stiffness and holdup without affecting high-speed pickup.
-
-2.37 * 7 = 16.59 is the limit for the slow speed stack. 8 is too stiff.
-
 TODO:
-- Use taller base valve with 0.15 shims ~ 16 or 17 shims and add 19, 21, 23 OD one at a time to the high-speed stack.
-- Shim the base valve bleed stack.
 - Revisit the 12 and 11 mm base shims if necessary.
+- Add 19, 21, 23 OD one at a time to the high-speed stack.
+- Shim the base valve bleed stack.
 
 The high-speed stack feels superior with 1 mm increment shims vs the 0.2 mm in 2 mm OD increments. The 11 mm base
 offers the best high-speed pickup but suffers from blow through.
