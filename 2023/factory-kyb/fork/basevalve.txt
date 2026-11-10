@@ -1,5 +1,5 @@
-V17
-10/26/26
+V18
+11/6/26
 
 32 x .15 - 6
 30 x .15
@@ -8,10 +8,14 @@ V17
 24 x .15
 22 x .15
 20 x .15
-18 x .2
-16 x .2
-14 x .2
-12 x .2
+19 x .15
+18 x .15
+17 x .15
+16 x .15
+15 x .15
+14 x .15
+13 x .15
+12 x .15
 11 x .2
 
 
@@ -23,4 +27,4 @@ Oil height 350cc
 
 Less than 0.6 mm clearance on the bleed stack feels harsh.
 
-Looking to ease mid-stroke harshness.
+0.15 with 1mm increment steps resolves mid-stroke harshness, high speed instability and headshake.
